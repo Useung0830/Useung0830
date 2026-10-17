@@ -41,6 +41,13 @@ Tools & Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white)
 ---
+Featured Projects
+Project	Description
+IDEAFORM	AI 기반 웹사이트 생성 및 편집 서비스
+COLLEZIO	피규어 및 굿즈 교환 플랫폼
+ONEBITE	맛집을 기록하고 공유하는 SNS
+> 프로젝트 GitHub 저장소 및 배포 링크를 추가하면 더욱 좋아요.
+---
 Connect
 <!-- 아래 YOUR_PORTFOLIO_URL, YOUR_BLOG_URL, YOUR_EMAIL을 실제 정보로 바꿔주세요. -->
 ![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)
