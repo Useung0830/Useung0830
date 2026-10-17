@@ -77,6 +77,6 @@
 ### Connect
 
 <!-- 아래 YOUR_PORTFOLIO_URL, YOUR_BLOG_URL, YOUR_EMAIL을 실제 정보로 바꿔주세요. -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)]([YOUR_PORTFOLIO_URL](https://yuseung-sung.vercel.app/))
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)]([YOUR_BLOG_URL](https://velog.io/@sus0830))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)]((https://yuseung-sung.vercel.app/))
+[![Blog](https://img.shields.io/badge/Velog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://velog.io/@sus0830))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yuseungsung@gmail.com)
