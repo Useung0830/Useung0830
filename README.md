@@ -27,13 +27,6 @@
 
 ### Tech Stack
 
-<div align="center">
-
-<!-- 주요 기술 아이콘 모음: skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma,vercel&perline=11" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind Git GitHub Figma Vercel logos" />
-
-</div>
-
 Frontend<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
