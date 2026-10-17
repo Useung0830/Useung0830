@@ -34,6 +34,7 @@
 
 </div>
 
+
 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
@@ -73,5 +74,5 @@ Tools & Collaboration
 
 <!-- 아래 YOUR_PORTFOLIO_URL, YOUR_BLOG_URL, YOUR_EMAIL을 실제 정보로 바꿔주세요. -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://yuseung-sung.vercel.app/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sus0830))
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sus0830)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yuseungsung@gmail.com)
