@@ -11,7 +11,6 @@
 
 ![Frontend](https://img.shields.io/badge/Frontend-111111?style=flat-square&logo=react&logoColor=white)
 ![UI%2FUX](https://img.shields.io/badge/UI%2FUX-111111?style=flat-square&logo=figma&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-111111?style=flat-square&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -66,9 +65,9 @@
 
 | Project | Description |
 | :--- | :--- |
-| **IDEAFORM** | AI 기반 웹사이트 생성 및 편집 서비스 |
-| **COLLEZIO** | 피규어 및 굿즈 교환 플랫폼 |
-| **ONEBITE** | 맛집을 기록하고 공유하는 SNS |
+| **COLLEZIO** | 굿즈, 카드, 피규어 등 다양한 수집품을 교환하고 거래하는 플랫폼” |
+| **Mappia** | 새로운 경험을 쉽고 편리하게 예약할 수 있는 체험 플랫폼 |
+| **Taskify** | 일정을 쉽고 편리하게 관리하고 공유하는 서비스 |
 
 > 프로젝트 GitHub 저장소 및 배포 링크를 추가하면 더욱 좋아요.
 
